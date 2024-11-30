@@ -10,6 +10,9 @@
 
 <p>I am writing this line using nano insead of an IDE.<p>
 
+<p>This is a test line to see if global helper worked.<p>
+
+
 </body>
 
 </html>
