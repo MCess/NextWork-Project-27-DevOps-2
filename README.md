@@ -26,6 +26,8 @@ Welcome to this project combining Java web app development and AWS CI/CD tools!
 
 ## Introduction
 This project is used for an introduction to creating and deploying a Java-based web app using AWS, especially their CI/CD tools.
+* I Am doign this project to better learn this developement and deployment process so I may work effectovely wiht development teams.
+* It is one of the most asked for skills on cloud engineer job posting
 
 The deployment pipeline I'm building around the Java web app in this repository is invisible to the end-user, but makes a big impact by automating the software release processes.
 
@@ -41,7 +43,6 @@ Here’s what I’m using for this project:
 - **[COMING SOON] AWS CodeBuild**: Once it's rolled out, CodeBuild will take over my build process. It'll compile the source code, run tests, and produce ready-to-deploy software packages automatically.
 - **[COMING SOON] AWS CodeDeploy**: Once it's rolled out, CodeDeploy will automate my deployment process across EC2 instances.
 - **[COMING SOON] AWS CodePipeline**: Once it's rolled out, CodePipeline will automate the entire process from GitHub to CodeDeploy, integrating build, test, and deployment steps into one efficient workflow.
-
 
 <br>
 
